@@ -1,16 +1,19 @@
-## Hi there 👋
+<h2>👋 Hello! I'm John.</h2>
+<p>
+  <a href="https://example.com">Blog</a> •
+  <a href="https://example.com">Website</a>
+</p>
 
-<!--
-**sirpinkman/sirpinkman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [An Awesome Project](https://example.com)
+- 💬 Ask me about **My Skill Icons!**
+- 📫 How to reach me: [@johndoe](https://example.com) anywhere
+- ⚡ Fun fact: I'm a GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------
+[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,html,css,mysql,git,nodejs,react,docker,kubernetes)](https://skill-icons-builder.vercel.app/)
+
+
+<details>
+  <summary>Github Stats</summary>
+</details>
